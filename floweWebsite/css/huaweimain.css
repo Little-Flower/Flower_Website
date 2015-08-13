@@ -42,6 +42,32 @@ p,ul,li,img,input,h1,h2,h3,h4,span{padding: 0; margin: 0; list-style:none; borde
  #nav .nav_con1 .con1C ul li.myimg{width: 72px;}
  #nav .nav_con1 .con1C ul li.mytext{width: 157px; padding-top: 10px; padding-left: 30px;}
  #nav .nav_con1 .con1R ul li.mytext{width: 165px; padding-top: 10px; padding-left: 30px;}
+
+ #nav .nav_con2{height: 310px; border-bottom: 1px solid #eee; background: #f7f7f7;}
+ #nav .nav_con2 .con2L, #nav .nav_con2 .con2C, #nav .nav_con2 .con2R{float: left; width: 294px; padding-left: 96px; padding-top: 20px; font-size: 16px;}
+ #nav .nav_con2 .con2L a{ width: 250px; display: block; height: 20px;line-height: 20px; padding-bottom: 10px; border-bottom: 1px solid #ccc;}
+ #nav .nav_con2 .con2C ul li.mytext a,#nav .nav_con2 .con2R ul li.mytext a {color: #000; display: block; padding-top: 10px; font-size: 16px; font-weight: bold;}
+ #nav .nav_con2 ul li.mytext a:hover{color: #1Af;}
+ #nav .nav_con2 ul li.mytext p{height: 24px; line-height: 24px;}
+
+ #nav .nav_con3{height: 310px; border-bottom: 1px solid #eee; background: #f7f7f7;}
+ #nav .nav_con3 .con3L,#nav .nav_con3 .con3R{float: left; padding-left: 90px; padding-top: 20px; font-size: 16px;}
+ #nav .nav_con3 .con3L{width: 500px;}
+ #nav .nav_con3 .con3R{width: 600px;}
+ #nav .nav_con3 .con3L ul{float: left; width: 250px; }
+ #nav .nav_con3 .con3L ul h3{color:#DE232C; padding-bottom: 20px;}
+ #nav .nav_con3 .con3L ul a{height: 35px; line-height: 35px;} 
+ #nav .nav_con3 .con3L ul .job li{float: left; width: 125px;}
+
+ #nav .nav_con3 .con3R ul{float: left; width: 300px; }
+ #nav .nav_con3 .con3R img{width: 274px; height: 142px;}
+ #nav .nav_con3 .con3C ul li.mytext a,#nav .nav_con3 .con3R ul li.mytext a {color: #000; display: block; padding-top: 10px; font-size: 16px; font-weight: bold;}
+ #nav .nav_con3 ul li.mytext a:hover{color: #1Af;}
+ #nav .nav_con3 ul li.mytext p{height: 24px; line-height: 24px;}
+
+
+
+
  /*know*/
  #know{width: 100%;height: 540px;}
  #know div{width: 100%; height: 540px; overflow: hidden;position: absolute;}
